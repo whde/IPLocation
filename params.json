@@ -1,0 +1,6 @@
+{
+  "name": "Iplocation",
+  "tagline": "根据当前IP地址定位，定位到区，不精确",
+  "body": "# IPLocation\r\n根据当前IP地址定位，定位到区，不精确\r\n```objective-c\r\n[IPLocation ipLoactionCompletionHandler:^(NSString *ip, CLLocationCoordinate2D location, NSDictionary *info) {\r\n\r\n}];\r\n```\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
