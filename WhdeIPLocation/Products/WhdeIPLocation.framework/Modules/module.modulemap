@@ -1,0 +1,6 @@
+framework module WhdeIPLocation {
+  umbrella header "WhdeIPLocation.h"
+
+  export *
+  module * { export * }
+}
