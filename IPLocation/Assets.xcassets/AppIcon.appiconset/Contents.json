@@ -135,18 +135,18 @@
     {
       "size" : "24x24",
       "idiom" : "watch",
-      "subtype" : "38mm",
       "filename" : "Icon-24.0@2x.png",
-      "role" : "notificationCenter",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "38mm",
+      "role" : "notificationCenter"
     },
     {
       "size" : "27.5x27.5",
       "idiom" : "watch",
-      "subtype" : "42mm",
       "filename" : "Icon-27.5@2x.png",
-      "role" : "notificationCenter",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "42mm",
+      "role" : "notificationCenter"
     },
     {
       "size" : "29x29",
@@ -165,34 +165,34 @@
     {
       "size" : "40x40",
       "idiom" : "watch",
-      "subtype" : "38mm",
       "filename" : "Icon-40.0@2x.png",
-      "role" : "appLauncher",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "38mm",
+      "role" : "appLauncher"
     },
     {
       "size" : "44x44",
       "idiom" : "watch",
-      "subtype" : "42mm",
       "filename" : "Icon-44.0@2x.png",
-      "role" : "longLook",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "42mm",
+      "role" : "longLook"
     },
     {
       "size" : "86x86",
       "idiom" : "watch",
-      "subtype" : "38mm",
       "filename" : "Icon-86.0@2x.png",
-      "role" : "quickLook",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "38mm",
+      "role" : "quickLook"
     },
     {
       "size" : "98x98",
       "idiom" : "watch",
-      "subtype" : "42mm",
       "filename" : "Icon-98.0@2x.png",
-      "role" : "quickLook",
-      "scale" : "2x"
+      "scale" : "2x",
+      "subtype" : "42mm",
+      "role" : "quickLook"
     },
     {
       "size" : "16x16",
